@@ -5,11 +5,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 1. i love Yanfei
-2. i love Yanfei
-3. i love Yanfei
-4. id love to traveling around the world
-5. i love the sky and i adore it
-6. in God we Trust 
+2. id love to traveling around the world
+3. i love the sky and i adore it
+
 
 <!---
 saldeww/saldeww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
